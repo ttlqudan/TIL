@@ -1,5 +1,7 @@
 # 코틀린 맛보기
 
+* 예제코드: https://www.manning.com/books/kotlin-in-action
+
 ### 코틀린 맛보기
 
 * playground: https://try.kotl.in/
